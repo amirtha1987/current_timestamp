@@ -1,0 +1,16 @@
+{
+  "name": "nodetask1",
+  "version": "1.0.0",
+  "description": "nodetask1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amirtha.dit@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "i": "^0.3.7"
+  }
+}
